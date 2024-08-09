@@ -3,6 +3,7 @@
 2. ``swagger-ui-express``
 3. ``class-validator``
 4. ``class-transformer``
+5. ``class-validator-jsonschema``
 
 ### Types
 2. ``@types/swagger-jsdoc``
